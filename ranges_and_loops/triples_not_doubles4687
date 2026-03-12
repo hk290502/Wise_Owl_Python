@@ -1,0 +1,16 @@
+for three in range(1,50,1):
+    if three % 3 and 3 != 0:
+     print(" ")
+    elif three % 2 and 2 != 0:
+       print(three)
+
+
+# get a list of all of the numbers up to 100
+#numbers = range(1,51)
+
+# loop over these
+#for number in numbers:
+
+    # print out if divisible by 3 but not 2
+    #if number % 2 != 0 and number % 3 == 0:
+       # print(number)
