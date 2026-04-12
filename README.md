@@ -1,4 +1,4 @@
-# WiseOwl — Python for Data
+# WiseOwl: Python for Data
 
 A personal drill-and-practice repo for building fluency in Python, with a focus on the data space. Each folder targets a specific skill area, working through exercises from the ground up.
 
@@ -34,6 +34,6 @@ A personal drill-and-practice repo for building fluency in Python, with a focus 
 
 ## Notes
 
-- This is a learning repo — not production code.
+- This is a learning repo and not production code.
 - Database exercises assume local SQL Server (`.\sql2019`) or a PostgreSQL instance configured via a `.env` file.
 - Excel/CSV data files are stored alongside the scripts that use them.
