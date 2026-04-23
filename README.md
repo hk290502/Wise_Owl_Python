@@ -1,4 +1,4 @@
-# WiseOwl: Python for Data
+Python for Data
 
 A personal drill-and-practice repo for building fluency in Python, with a focus on the data space. Each folder targets a specific skill area, working through exercises from the ground up.
 
